@@ -1,0 +1,203 @@
+.inteco-header-style-plain.inteco-style-float-left .inteco-navigation {
+    float: left;
+    margin-left: 200px;
+}
+
+.inteco-logo {
+    padding-top: 30px;
+    padding-bottom: 0;
+}
+
+.inteco-navigation {
+    padding-top: 50px;
+}
+
+.inteco-header-right-social {
+    padding-top: 45px;
+}
+
+.inteco-header-style-plain.inteco-style-float-left .inteco-logo-bottom-divider {
+    background: linear-gradient(to left,
+            rgb(253 209 76),
+            rgb(253 209 76 / 14%));
+}
+
+.primary-color {
+    color: #fdd14c;
+}
+
+#homeBanner.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: -100px;
+    z-index: 1;
+    display: block;
+    position: relative;
+}
+
+#homeBanner .item {
+    position: relative;
+}
+
+.slider-content {
+    padding: 200px 0;
+    color: #fff;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.slider-content hr {
+    height: 5px;
+    width: 200px;
+    margin: 0 auto 30px;
+    background: #fdd14c;
+}
+
+.slider-content h1 {
+    color: #fff;
+}
+
+.service-title {
+    font-size: 19px;
+    font-weight: 800;
+    font-style: normal;
+    color: #212121;
+}
+
+.section-padding {
+    padding: 60px 0;
+}
+
+.service-section {
+    padding: 120px 0;
+}
+
+.pre-footer {
+    background: #000000;
+    padding: 30px 0;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3.heading-title-pre-footer {
+    font-size: 18px !important;
+}
+
+.icon-footer {
+    width: 48px;
+}
+
+.inteco-footer-wrapper {
+    background: url(../upload/getquote-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.inteco-copyright-container {
+    padding-bottom: 0;
+    border-top: 1px solid white;
+}
+
+.client-section {
+    padding: 10px 0;
+}
+
+.contact-list ul {
+    list-style: none;
+    margin-left: 0;
+}
+
+.contact-list ul li {
+    color: #000000;
+    padding: 10px 0;
+    font-family: "ArcaMajora Heavy";
+    font-weight: 600;
+    color: #505050;
+}
+
+.contact-list ul li i {
+    color: #fdd14c;
+    padding-right: 15px;
+}
+
+/* custom-font */
+.title {
+    font-size: 30px;
+    letter-spacing: 0px;
+    text-transform: none;
+    color: #2b2b2b;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.testimonial-custom {
+    max-width: 833px;
+}
+
+.about-img {
+    border-width: 0px;
+    max-width: 430px !important;
+}
+
+.gdlr-core-button.custom-btn {
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    color: #fdd14c;
+    padding: 0px 0px 8px 0px;
+    text-transform: none;
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+}
+
+.custom-btn i {
+    color: #fdd14c;
+}
+
+.section {
+    padding: 95px 0px 50px 0px;
+}
+
+.counter-title {
+    font-size: 36px;
+}
+
+.counter-text {
+    font-size: 18px;
+}
+
+.what-we-do {
+    padding: 455px 0px 30px 0px;
+}
+
+.what-we-do-cards {
+    margin: -76px 0px 0px 0px;
+    padding: 0px 0px 55px 0px;
+}
+
+
+.gdlr-core-container-custom {
+    max-width: 1280px;
+}
+
+.card-data-inner {
+    margin: 0px 33px 0px 0px;
+    padding: 65px 30px 27px 30px;
+}
+
+.card-data-inner .card-title {
+    font-size: 19px;
+    letter-spacing: 0px;
+    text-transform: none;
+    color: #2b2b2b;
+}
+
+.bg-white {
+    background: #fff;
+}
